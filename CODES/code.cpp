@@ -1,9 +1,7 @@
-#include <iostream>
-using namespace std;
-
+#include <stdio.h>
+#include <conio.h>
 int main(){
-	int a , b = 5, c = 4;
-	a = b*c
-	cout<<a;
-	return 0;
+int a = 4;
+printf("%d",a);
+return 0;
 }
