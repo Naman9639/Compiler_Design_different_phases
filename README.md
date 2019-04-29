@@ -1,2 +1,3 @@
 # Compiler_Design
-Codes for compiler design in python 
+<p>Codes for compiler design lab in python </p>
+<p>Different phases of compiler developed in python</p>
